@@ -1,5 +1,5 @@
 'use client';
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect } from "react"; // Removed useRef
 import HTMLFlipBook from "react-pageflip";
 
 const ReadDiary = () => {

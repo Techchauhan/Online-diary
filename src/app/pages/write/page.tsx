@@ -1,4 +1,3 @@
-import ReadDiary from '@/app/components/readDiary'
 import WriteDiary from '@/app/components/writeDiary'
 import React from 'react'
 
